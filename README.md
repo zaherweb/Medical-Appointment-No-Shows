@@ -58,6 +58,7 @@ True or False.
 
 
 
+![alt text](http://url/to/img.png)
 
 
 
