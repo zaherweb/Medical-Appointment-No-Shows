@@ -10,7 +10,6 @@
 <li><a href="#conclusions">Conclusions</a></li>
 </ul>
 
-https://drive.google.com/drive/folders/1Ip0Mv9GrRO_xvMuCrI7ZdU6WVDL_xEUB?usp=sharing
 
 
 <a id='intro'></a>
